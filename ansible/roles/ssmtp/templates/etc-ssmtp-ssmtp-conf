@@ -1,0 +1,5 @@
+# ---- basic config
+root={{ notification_mail }}
+hostname={{ server_hostname }}
+FromLineOverride=YES
+mailhub={{ ssmtp_mailhub }}
