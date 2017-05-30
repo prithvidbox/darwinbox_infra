@@ -1,6 +1,6 @@
 # Build Maestrano LAMP stack based on Ubuntu 14.04
 
-[![Build Status](https://travis-ci.org/prithvidbox/docker-lamp.svg?branch=master)](https://travis-ci.org/prithvidbox/docker-lamp)
+[![Build Status](https://travis-ci.org/prithvidbox/darwinbox_infra.svg?branch=master)](https://travis-ci.org/prithvidbox/darwinbox_infra)
 
 ## Build Docker container locally
 `sudo docker build -t darwinbox/docker-lamp .`
