@@ -17,6 +17,9 @@ The image can be pulled down from [Docker Hub](https://hub.docker.com/r/darwinbo
 
 ## Launch a LAMP Docker container
 ```bash
-docker run -it -e "MNO_POWER_UNITS=4" darwinbox/docker-lamp:latest
+docker run -it -e "MNO_POWER_UNITS=4" -p 880:80 darwinbox/docker-lamp:latest
  ```
+
+Access localhost:880 to reach Apache 
+
 # docker-lamp
