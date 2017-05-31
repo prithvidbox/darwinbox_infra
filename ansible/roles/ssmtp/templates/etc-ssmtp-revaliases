@@ -1,1 +1,0 @@
-root:{{ notification_mail }}:{{ ssmtp_mailhub }}
